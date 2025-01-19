@@ -55,8 +55,8 @@ project_root/
 ### Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/AUTOPATCH.git
-cd AUTOPATCH
+git clone https://github.com/manishacharya60/rag-optimization.git
+cd rag-optimization
 ```
 
 ### Step 2: Install dependencies
