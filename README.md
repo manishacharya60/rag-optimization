@@ -83,6 +83,14 @@ To convert code into CFGs for analysis, run:
 python cfg_conversion/cfg_conversion.py
 ```
 
+### Generate Embeddings
+
+To create embeddings for the training and testing datasets, run:
+
+```bash
+python embeddings/embeddings_script.py
+```
+
 ### Run Optimization
 
 -   **Context-Aware Optimization**:
