@@ -2,7 +2,7 @@
 
 This repository contains the implementation of **AUTOPATCH**, a framework designed to optimize program runtime performance through **Context-Aware Retrieval-Augmented Generation (RAG)**. By combining insights from Control Flow Graph (CFG) analysis, retrieval-augmented learning, and in-context LLM prompting, AUTOPATCH bridges the gap between traditional manual code optimization and automated techniques. It achieves measurable improvements in execution efficiency while maintaining high adaptability to various programming challenges.
 
-![AUTOPATCH Workflow](assets/diagram.png "Overview of the AUTOPATCH Workflow")
+![AUTOPATCH Workflow](assets/autopatch_overview.jpg "Overview of the AUTOPATCH Workflow")
 
 ---
 
