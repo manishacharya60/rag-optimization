@@ -140,10 +140,13 @@ AUTOPATCH has been rigorously tested against baseline methods, demonstrating:
 If you use **AUTOPATCH** in your research, please cite our paper:
 
 ```bibtex
-@inproceedings{AUTOPATCH2025,
-  title={Optimizing Code Runtime Performance through Context-Aware Retrieval-Augmented Generation},
-  author={Manish Acharya, Yifan Zhang, Yu Huang, Kevin Leach},
-  booktitle={33rd IEEE/ACM International Conference on Program Comprehension (ICPC)},
-  year={2025}
+@misc{acharya2025optimizingcoderuntimeperformance,
+      title={Optimizing Code Runtime Performance through Context-Aware Retrieval-Augmented Generation},
+      author={Manish Acharya and Yifan Zhang and Yu Huang and Kevin Leach},
+      year={2025},
+      eprint={2501.16692},
+      archivePrefix={arXiv},
+      primaryClass={cs.SE},
+      url={https://arxiv.org/abs/2501.16692},
 }
 ```
